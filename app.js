@@ -8,7 +8,7 @@ const dbConfig = {
     user: 'usersql',
     password: 'root2',
     server: 'localhost',
-    database: 'dbo',
+    database: 'dboPrueba',
     options: {
         encrypt: false,
     },
